@@ -1,0 +1,1373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WTI Like Post PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-23 09:13+0530\n"
+"PO-Revision-Date: 2014-12-23 09:16+0530\n"
+"Last-Translator: Webtechideas <support@webtechideas.com>\n"
+"Language-Team: Webtechideas <support@webtechideas.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../wti_like_post.php:92
+msgid "In case there was any customization done with this plugin, then please backup the plugin files and wti_like_post table before updating."
+msgstr "In case there was any customization done with this plugin, then please backup the plugin files and wti_like_post table before updating."
+
+#: ../wti_like_post.php:113
+msgid "Settings"
+msgstr "Settings"
+
+#: ../wti_like_post.php:195
+#: ../wti_like_post_admin.php:441
+msgid "Be the 1st to vote."
+msgstr "Be the 1st to vote."
+
+#: ../wti_like_post.php:196
+#: ../wti_like_post_admin.php:442
+msgid "Please login to vote."
+msgstr "Please login to vote."
+
+#: ../wti_like_post.php:197
+#: ../wti_like_post_admin.php:443
+msgid "Thanks for your vote."
+msgstr "Thanks for your vote."
+
+#: ../wti_like_post.php:198
+#: ../wti_like_post_admin.php:444
+msgid "You have already voted."
+msgstr "You have already voted."
+
+#: ../wti_like_post.php:205
+#: ../wti_like_post_admin.php:451
+msgid "You can not vote your own post."
+msgstr "You can not vote your own post."
+
+#: ../wti_like_post.php:459
+msgid "You"
+msgstr "You"
+
+#: ../wti_like_post.php:483
+msgid "and"
+msgstr "and"
+
+#: ../wti_like_post.php:485
+msgid "others"
+msgstr "others"
+
+#: ../wti_like_post.php:485
+msgid "other"
+msgstr "other"
+
+#: ../wti_like_post.php:492
+msgid "like this"
+msgstr "like this"
+
+#: ../wti_like_post.php:492
+msgid "likes this"
+msgstr "likes this"
+
+#: ../wti_like_post.php:1012
+#: ../wti_like_post_view_users.php:48
+msgid "#"
+msgstr "#"
+
+#: ../wti_like_post.php:1015
+#: ../wti_like_post_admin.php:153
+#: ../wti_like_post_view_users.php:51
+msgid "User Id"
+msgstr "User Id"
+
+#: ../wti_like_post.php:1018
+#: ../wti_like_post_view_users.php:54
+msgid "Name"
+msgstr "Name"
+
+#: ../wti_like_post.php:1021
+#: ../wti_like_post_view_users.php:57
+msgid "Email"
+msgstr "Email"
+
+#: ../wti_like_post.php:1024
+#: ../wti_like_post_view_users.php:60
+msgid "Count"
+msgstr "Count"
+
+#: ../wti_like_post.php:1060
+#: ../wti_like_post_view_users.php:100
+msgid "No users voted yet. This will show the users only when logged in users are allowed to vote."
+msgstr "No users voted yet. This will show the users only when logged in users are allowed to vote."
+
+#: ../wti_like_post.php:1089
+msgid "Error!! Please try again"
+msgstr "Error!! Please try again"
+
+#: ../wti_like_post.php:1094
+msgid "Cleared"
+msgstr "Cleared"
+
+#: ../wti_like_post_admin.php:9
+#: ../wti_like_post_admin.php:46
+msgid "WTI Like Post PRO"
+msgstr "WTI Like Post PRO"
+
+#: ../wti_like_post_admin.php:12
+#: ../wti_like_post_admin.php:500
+#: ../wti_like_post_widgets.php:31
+#: ../wti_like_post_widgets.php:98
+msgid "Most Liked Posts"
+msgstr "Most Liked Posts"
+
+#: ../wti_like_post_admin.php:15
+#: ../wti_like_post_admin.php:798
+msgid "Features & Support"
+msgstr "Features & Support"
+
+#: ../wti_like_post_admin.php:53
+msgid "Plugin settings updated successfully."
+msgstr "Plugin settings updated successfully."
+
+#: ../wti_like_post_admin.php:63
+msgid "Configuration Settings"
+msgstr "Configuration Settings"
+
+#: ../wti_like_post_admin.php:70
+msgid "Remove plugin settings and table on plugin un-install"
+msgstr "Remove plugin settings and table on plugin un-install"
+
+#: ../wti_like_post_admin.php:72
+#: ../wti_like_post_admin.php:80
+#: ../wti_like_post_admin.php:88
+#: ../wti_like_post_admin.php:96
+#: ../wti_like_post_admin.php:161
+#: ../wti_like_post_admin.php:197
+#: ../wti_like_post_admin.php:250
+#: ../wti_like_post_admin.php:321
+#: ../wti_like_post_admin.php:359
+#: ../wti_like_post_admin.php:381
+#: ../wti_like_post_admin.php:389
+msgid "Yes"
+msgstr "Yes"
+
+#: ../wti_like_post_admin.php:73
+#: ../wti_like_post_admin.php:81
+#: ../wti_like_post_admin.php:89
+#: ../wti_like_post_admin.php:97
+#: ../wti_like_post_admin.php:162
+#: ../wti_like_post_admin.php:198
+#: ../wti_like_post_admin.php:240
+#: ../wti_like_post_admin.php:251
+#: ../wti_like_post_admin.php:322
+#: ../wti_like_post_admin.php:360
+#: ../wti_like_post_admin.php:382
+#: ../wti_like_post_admin.php:390
+#: ../wti_like_post_admin.php:398
+msgid "No"
+msgstr "No"
+
+#: ../wti_like_post_admin.php:74
+msgid "Setting this to NO is helpful if you are planning to reuse this in future with old data."
+msgstr "Setting this to NO is helpful if you are planning to reuse this in future with old data."
+
+#: ../wti_like_post_admin.php:78
+msgid "Use plugin css file"
+msgstr "Use plugin css file"
+
+#: ../wti_like_post_admin.php:82
+msgid "This option is useful if you want to control the plugin layout from your theme. By setting this to No, your custom css code will be used and will not be overwritten by the plugin css."
+msgstr "This option is useful if you want to control the plugin layout from your theme. By setting this to No, your custom css code will be used and will not be overwritten by the plugin css."
+
+#: ../wti_like_post_admin.php:86
+msgid "Disable automatic loading of buttons for post content"
+msgstr "Disable automatic loading of buttons for post content"
+
+#: ../wti_like_post_admin.php:90
+msgid "This option is useful if you want to use the template tag GetWtiLikePost() instead of the like/unlike buttons which loads automatically."
+msgstr "This option is useful if you want to use the template tag GetWtiLikePost() instead of the like/unlike buttons which loads automatically."
+
+#: ../wti_like_post_admin.php:94
+msgid "Load buttons for post excerpt"
+msgstr "Load buttons for post excerpt"
+
+#: ../wti_like_post_admin.php:98
+msgid "This option is useful mainly on home/blog page where you show post excerpts. You must have excerpts added to the post."
+msgstr "This option is useful mainly on home/blog page where you show post excerpts. You must have excerpts added to the post."
+
+#: ../wti_like_post_admin.php:102
+msgid "Voting Style"
+msgstr "Voting Style"
+
+#: ../wti_like_post_admin.php:108
+msgid "Style1"
+msgstr "Style1"
+
+#: ../wti_like_post_admin.php:109
+msgid "Style2"
+msgstr "Style2"
+
+#: ../wti_like_post_admin.php:110
+msgid "Style3"
+msgstr "Style3"
+
+#: ../wti_like_post_admin.php:111
+msgid "Style4"
+msgstr "Style4"
+
+#: ../wti_like_post_admin.php:112
+msgid "Style5"
+msgstr "Style5"
+
+#: ../wti_like_post_admin.php:113
+msgid "Style6"
+msgstr "Style6"
+
+#: ../wti_like_post_admin.php:115
+msgid "Select the voting style from 6 available options with 6 different sets of images."
+msgstr "Select the voting style from 6 available options with 6 different sets of images."
+
+#: ../wti_like_post_admin.php:119
+msgid "Voting Period"
+msgstr "Voting Period"
+
+#: ../wti_like_post_admin.php:125
+msgid "Always can vote"
+msgstr "Always can vote"
+
+#: ../wti_like_post_admin.php:126
+msgid "Only once"
+msgstr "Only once"
+
+#: ../wti_like_post_admin.php:127
+msgid "One hour"
+msgstr "One hour"
+
+#: ../wti_like_post_admin.php:128
+msgid "Two hours"
+msgstr "Two hours"
+
+#: ../wti_like_post_admin.php:129
+msgid "Three hours"
+msgstr "Three hours"
+
+#: ../wti_like_post_admin.php:130
+msgid "Four hours"
+msgstr "Four hours"
+
+#: ../wti_like_post_admin.php:131
+msgid "Six hours"
+msgstr "Six hours"
+
+#: ../wti_like_post_admin.php:132
+msgid "Eight hours"
+msgstr "Eight hours"
+
+#: ../wti_like_post_admin.php:133
+msgid "Twelve hours"
+msgstr "Twelve hours"
+
+#: ../wti_like_post_admin.php:134
+msgid "One day"
+msgstr "One day"
+
+#: ../wti_like_post_admin.php:135
+msgid "Two days"
+msgstr "Two days"
+
+#: ../wti_like_post_admin.php:136
+msgid "Three days"
+msgstr "Three days"
+
+#: ../wti_like_post_admin.php:137
+msgid "One week"
+msgstr "One week"
+
+#: ../wti_like_post_admin.php:138
+msgid "Two weeks"
+msgstr "Two weeks"
+
+#: ../wti_like_post_admin.php:139
+msgid "Three weeks"
+msgstr "Three weeks"
+
+#: ../wti_like_post_admin.php:140
+msgid "One month"
+msgstr "One month"
+
+#: ../wti_like_post_admin.php:141
+msgid "Two months"
+msgstr "Two months"
+
+#: ../wti_like_post_admin.php:142
+msgid "Three months"
+msgstr "Three months"
+
+#: ../wti_like_post_admin.php:143
+msgid "Six Months"
+msgstr "Six Months"
+
+#: ../wti_like_post_admin.php:144
+msgid "One Year"
+msgstr "One Year"
+
+#: ../wti_like_post_admin.php:146
+msgid "Select the voting period after which user can vote again."
+msgstr "Select the voting period after which user can vote again."
+
+#: ../wti_like_post_admin.php:150
+msgid "Check revoting with"
+msgstr "Check revoting with"
+
+#: ../wti_like_post_admin.php:152
+msgid "IP Address"
+msgstr "IP Address"
+
+#: ../wti_like_post_admin.php:155
+msgid "This option is useful to cross check user revoting a post/page and you have restricted revoting with specific voting period."
+msgstr "This option is useful to cross check user revoting a post/page and you have restricted revoting with specific voting period."
+
+#: ../wti_like_post_admin.php:159
+msgid "Login required to vote"
+msgstr "Login required to vote"
+
+#: ../wti_like_post_admin.php:163
+msgid "Select whether only logged in users can vote or not. If you check revoting with user id, then it must be set to yes."
+msgstr "Select whether only logged in users can vote or not. If you check revoting with user id, then it must be set to yes."
+
+#: ../wti_like_post_admin.php:167
+msgid "Login required message"
+msgstr "Login required message"
+
+#: ../wti_like_post_admin.php:170
+msgid "Message to show in case login required and user is not logged in."
+msgstr "Message to show in case login required and user is not logged in."
+
+#: ../wti_like_post_admin.php:174
+msgid "Default message"
+msgstr "Default message"
+
+#: ../wti_like_post_admin.php:177
+msgid "Message to show when there has not been any vote for the post. You can put some encouraging message so users will vote."
+msgstr "Message to show when there has not been any vote for the post. You can put some encouraging message so users will vote."
+
+#: ../wti_like_post_admin.php:181
+msgid "Thank you message"
+msgstr "Thank you message"
+
+#: ../wti_like_post_admin.php:184
+msgid "Message to show after successful voting."
+msgstr "Message to show after successful voting."
+
+#: ../wti_like_post_admin.php:188
+msgid "Already voted message"
+msgstr "Already voted message"
+
+#: ../wti_like_post_admin.php:191
+msgid "Message to show if user has already voted. This will also be shown when user tries to vote again with multiple voting not allowed."
+msgstr "Message to show if user has already voted. This will also be shown when user tries to vote again with multiple voting not allowed."
+
+#: ../wti_like_post_admin.php:195
+msgid "Disallow author to like/unlike own post"
+msgstr "Disallow author to like/unlike own post"
+
+#: ../wti_like_post_admin.php:199
+msgid "Select whether to disallow author to like/unlike own post. User must be logged in for this cross-checking."
+msgstr "Select whether to disallow author to like/unlike own post. User must be logged in for this cross-checking."
+
+#: ../wti_like_post_admin.php:203
+msgid "Disallow message"
+msgstr "Disallow message"
+
+#: ../wti_like_post_admin.php:206
+msgid "Message to show when author tries to like/unlike own post."
+msgstr "Message to show when author tries to like/unlike own post."
+
+#: ../wti_like_post_admin.php:238
+msgid "Integrate with buddypress activity"
+msgstr "Integrate with buddypress activity"
+
+#: ../wti_like_post_admin.php:241
+msgid "Yes, Like only"
+msgstr "Yes, Like only"
+
+#: ../wti_like_post_admin.php:242
+msgid "Yes, Dislike only"
+msgstr "Yes, Dislike only"
+
+#: ../wti_like_post_admin.php:243
+msgid "Yes, Like and Dislike both"
+msgstr "Yes, Like and Dislike both"
+
+#: ../wti_like_post_admin.php:244
+msgid "It will show a liked/disliked activity message on buddypress actvity page. Buddypress must have been installed with Activity Streams component enabled and user must be logged in for this to work."
+msgstr "It will show a liked/disliked activity message on buddypress actvity page. Buddypress must have been installed with Activity Streams component enabled and user must be logged in for this to work."
+
+#: ../wti_like_post_admin.php:248
+msgid "Show on pages"
+msgstr "Show on pages"
+
+#: ../wti_like_post_admin.php:252
+msgid "Select yes if you want to show the like option on pages as well."
+msgstr "Select yes if you want to show the like option on pages as well."
+
+#: ../wti_like_post_admin.php:256
+msgid "Exclude on selected sections"
+msgstr "Exclude on selected sections"
+
+#: ../wti_like_post_admin.php:258
+msgid "Home"
+msgstr "Home"
+
+#: ../wti_like_post_admin.php:259
+msgid "Archive"
+msgstr "Archive"
+
+#: ../wti_like_post_admin.php:260
+msgid "Search"
+msgstr "Search"
+
+#: ../wti_like_post_admin.php:261
+msgid "Check the sections where you do not want to avail the like/dislike options. This has higher priority than the \"Exclude post/page IDs\" setting."
+msgstr "Check the sections where you do not want to avail the like/dislike options. This has higher priority than the \"Exclude post/page IDs\" setting."
+
+#: ../wti_like_post_admin.php:265
+msgid "Allow selected categories"
+msgstr "Allow selected categories"
+
+#: ../wti_like_post_admin.php:281
+msgid "Select categories where you want to show the like/dislike option. This will be used only when nothing is selected from Exclude selected categories option."
+msgstr "Select categories where you want to show the like/dislike option. This will be used only when nothing is selected from Exclude selected categories option."
+
+#: ../wti_like_post_admin.php:285
+msgid "Exclude selected categories"
+msgstr "Exclude selected categories"
+
+#: ../wti_like_post_admin.php:301
+msgid "Select categories where you do not want to show the like option. It has higher priority than \"Exclude post/page IDs\" setting."
+msgstr "Select categories where you do not want to show the like option. It has higher priority than \"Exclude post/page IDs\" setting."
+
+#: ../wti_like_post_admin.php:305
+msgid "Allow post IDs"
+msgstr "Allow post IDs"
+
+#: ../wti_like_post_admin.php:308
+msgid "Suppose you have a post which belongs to more than one categories and you have excluded one of those categories. So the like/dislike will not be available for that post. Enter comma separated those post ids where you want to show the like/dislike option irrespective of that post category being excluded."
+msgstr "Suppose you have a post which belongs to more than one categories and you have excluded one of those categories. So the like/dislike will not be available for that post. Enter comma separated those post ids where you want to show the like/dislike option irrespective of that post category being excluded."
+
+#: ../wti_like_post_admin.php:312
+msgid "Exclude post/page IDs"
+msgstr "Exclude post/page IDs"
+
+#: ../wti_like_post_admin.php:315
+msgid "Enter comma separated post/page ids where you do not want to show the like option. If Show on pages setting is set to Yes but you have added the page id here, then like option will not be shown for the same page."
+msgstr "Enter comma separated post/page ids where you do not want to show the like option. If Show on pages setting is set to Yes but you have added the page id here, then like option will not be shown for the same page."
+
+#: ../wti_like_post_admin.php:319
+msgid "Show excluded posts/pages on widget"
+msgstr "Show excluded posts/pages on widget"
+
+#: ../wti_like_post_admin.php:323
+msgid "Select yes if you want to show the excluded posts/pages on widget."
+msgstr "Select yes if you want to show the excluded posts/pages on widget."
+
+#: ../wti_like_post_admin.php:327
+msgid "Position Setting"
+msgstr "Position Setting"
+
+#: ../wti_like_post_admin.php:329
+msgid "Top of Content"
+msgstr "Top of Content"
+
+#: ../wti_like_post_admin.php:330
+msgid "Bottom of Content"
+msgstr "Bottom of Content"
+
+#: ../wti_like_post_admin.php:331
+msgid "Select the position where you want to show the like options. You can place it anywhere inside content by using the shortcode [wtilikepost] irrespective of the position selected."
+msgstr "Select the position where you want to show the like options. You can place it anywhere inside content by using the shortcode [wtilikepost] irrespective of the position selected."
+
+#: ../wti_like_post_admin.php:335
+msgid "Alignment Setting"
+msgstr "Alignment Setting"
+
+#: ../wti_like_post_admin.php:337
+msgid "Left"
+msgstr "Left"
+
+#: ../wti_like_post_admin.php:338
+msgid "Right"
+msgstr "Right"
+
+#: ../wti_like_post_admin.php:339
+msgid "Select the alignment whether to show on left or on right."
+msgstr "Select the alignment whether to show on left or on right."
+
+#: ../wti_like_post_admin.php:343
+msgid "Redirect Url"
+msgstr "Redirect Url"
+
+#: ../wti_like_post_admin.php:346
+msgid "Provide the full url only when you want the user to be redirected on successful voting."
+msgstr "Provide the full url only when you want the user to be redirected on successful voting."
+
+#: ../wti_like_post_admin.php:350
+msgid "Title text for like/unlike images"
+msgstr "Title text for like/unlike images"
+
+#: ../wti_like_post_admin.php:353
+msgid "Enter both texts separated by \"/\" to show when user puts mouse over like/unlike images."
+msgstr "Enter both texts separated by \"/\" to show when user puts mouse over like/unlike images."
+
+#: ../wti_like_post_admin.php:357
+msgid "Use like/unlike text"
+msgstr "Use like/unlike text"
+
+#: ../wti_like_post_admin.php:361
+msgid "Select whether you want to show like/unlike text instead of images. If yes, then enter the respective texts in the fields below."
+msgstr "Select whether you want to show like/unlike text instead of images. If yes, then enter the respective texts in the fields below."
+
+#: ../wti_like_post_admin.php:365
+msgid "Text to use instead of like image"
+msgstr "Text to use instead of like image"
+
+#: ../wti_like_post_admin.php:368
+msgid "Enter the text to show if you do not want to use like image."
+msgstr "Enter the text to show if you do not want to use like image."
+
+#: ../wti_like_post_admin.php:372
+msgid "Text to use instead of unlike image"
+msgstr "Text to use instead of unlike image"
+
+#: ../wti_like_post_admin.php:375
+msgid "Enter the text to show if you do not want to use unlike image."
+msgstr "Enter the text to show if you do not want to use unlike image."
+
+#: ../wti_like_post_admin.php:379
+msgid "Show dislike option"
+msgstr "Show dislike option"
+
+#: ../wti_like_post_admin.php:383
+msgid "Select the option whether to show or hide the dislike option."
+msgstr "Select the option whether to show or hide the dislike option."
+
+#: ../wti_like_post_admin.php:387
+msgid "Show +/- symbols"
+msgstr "Show +/- symbols"
+
+#: ../wti_like_post_admin.php:391
+msgid "Select the option whether to show or hide the plus or minus symbols before like/unlike count."
+msgstr "Select the option whether to show or hide the plus or minus symbols before like/unlike count."
+
+#: ../wti_like_post_admin.php:395
+msgid "Show user likes"
+msgstr "Show user likes"
+
+#: ../wti_like_post_admin.php:397
+msgid "Yes, comma separated"
+msgstr "Yes, comma separated"
+
+#: ../wti_like_post_admin.php:400
+msgid "Select the option whether to show or hide the users who like the posts. This will work if only registered users are allowed to vote and we have records of those users. Since this is implemented in this pro version, old user votings will not reflect here. This will work only for future votings."
+msgstr "Select the option whether to show or hide the users who like the posts. This will work if only registered users are allowed to vote and we have records of those users. Since this is implemented in this pro version, old user votings will not reflect here. This will work only for future votings."
+
+#: ../wti_like_post_admin.php:406
+msgid "Save Options"
+msgstr "Save Options"
+
+#: ../wti_like_post_admin.php:407
+msgid "Reset Options"
+msgstr "Reset Options"
+
+#: ../wti_like_post_admin.php:408
+msgid "Update Like Meta"
+msgstr "Update Like Meta"
+
+#: ../wti_like_post_admin.php:428
+msgid "Are you sure to reset the options to default settings?"
+msgstr "Are you sure to reset the options to default settings?"
+
+#: ../wti_like_post_admin.php:465
+msgid "Like/Unlike"
+msgstr "Like/Unlike"
+
+#: ../wti_like_post_admin.php:466
+msgid "Click to like it"
+msgstr "Click to like it"
+
+#: ../wti_like_post_admin.php:467
+msgid "Click to unlike it"
+msgstr "Click to unlike it"
+
+#: ../wti_like_post_admin.php:479
+msgid "Updating..."
+msgstr "Updating..."
+
+#: ../wti_like_post_admin.php:511
+msgid "Are you sure to reset all the counts present in the database?"
+msgstr "Are you sure to reset all the counts present in the database?"
+
+#: ../wti_like_post_admin.php:521
+msgid "Are you sure to reset selected counts present in the database?"
+msgstr "Are you sure to reset selected counts present in the database?"
+
+#: ../wti_like_post_admin.php:571
+msgid "All counts have been reset successfully."
+msgstr "All counts have been reset successfully."
+
+#: ../wti_like_post_admin.php:575
+msgid "All counts could not be reset."
+msgstr "All counts could not be reset."
+
+#: ../wti_like_post_admin.php:600
+msgid "counts have been reset successfully."
+msgstr "counts have been reset successfully."
+
+#: ../wti_like_post_admin.php:602
+msgid "count has been reset successfully."
+msgstr "count has been reset successfully."
+
+#: ../wti_like_post_admin.php:608
+msgid "Selected counts could not be reset."
+msgstr "Selected counts could not be reset."
+
+#: ../wti_like_post_admin.php:613
+msgid "Please select posts to reset count."
+msgstr "Please select posts to reset count."
+
+#: ../wti_like_post_admin.php:663
+msgid "Reset All Counts"
+msgstr "Reset All Counts"
+
+#: ../wti_like_post_admin.php:664
+msgid "Reset Selected Counts"
+msgstr "Reset Selected Counts"
+
+#: ../wti_like_post_admin.php:668
+#: ../wti_like_post_widgets.php:177
+#: ../wti_like_post_widgets.php:884
+msgid "All time"
+msgstr "All time"
+
+#: ../wti_like_post_admin.php:669
+#: ../wti_like_post_widgets.php:178
+#: ../wti_like_post_widgets.php:885
+msgid "Last one hour"
+msgstr "Last one hour"
+
+#: ../wti_like_post_admin.php:670
+#: ../wti_like_post_widgets.php:179
+#: ../wti_like_post_widgets.php:886
+msgid "Last two hours"
+msgstr "Last two hours"
+
+#: ../wti_like_post_admin.php:671
+#: ../wti_like_post_widgets.php:180
+#: ../wti_like_post_widgets.php:887
+msgid "Last three hours"
+msgstr "Last three hours"
+
+#: ../wti_like_post_admin.php:672
+#: ../wti_like_post_widgets.php:181
+#: ../wti_like_post_widgets.php:888
+msgid "Last four hours"
+msgstr "Last four hours"
+
+#: ../wti_like_post_admin.php:673
+#: ../wti_like_post_widgets.php:182
+#: ../wti_like_post_widgets.php:889
+msgid "Last six hours"
+msgstr "Last six hours"
+
+#: ../wti_like_post_admin.php:674
+#: ../wti_like_post_widgets.php:183
+#: ../wti_like_post_widgets.php:890
+msgid "Last eight hours"
+msgstr "Last eight hours"
+
+#: ../wti_like_post_admin.php:675
+#: ../wti_like_post_widgets.php:184
+#: ../wti_like_post_widgets.php:891
+msgid "Last twelve hours"
+msgstr "Last twelve hours"
+
+#: ../wti_like_post_admin.php:676
+#: ../wti_like_post_widgets.php:185
+#: ../wti_like_post_widgets.php:892
+msgid "Last one day"
+msgstr "Last one day"
+
+#: ../wti_like_post_admin.php:677
+#: ../wti_like_post_widgets.php:186
+#: ../wti_like_post_widgets.php:893
+msgid "Last two days"
+msgstr "Last two days"
+
+#: ../wti_like_post_admin.php:678
+#: ../wti_like_post_widgets.php:187
+#: ../wti_like_post_widgets.php:894
+msgid "Last three days"
+msgstr "Last three days"
+
+#: ../wti_like_post_admin.php:679
+#: ../wti_like_post_widgets.php:188
+#: ../wti_like_post_widgets.php:895
+msgid "Last one week"
+msgstr "Last one week"
+
+#: ../wti_like_post_admin.php:680
+#: ../wti_like_post_widgets.php:189
+#: ../wti_like_post_widgets.php:896
+msgid "Last two weeks"
+msgstr "Last two weeks"
+
+#: ../wti_like_post_admin.php:681
+#: ../wti_like_post_widgets.php:190
+#: ../wti_like_post_widgets.php:897
+msgid "Last three weeks"
+msgstr "Last three weeks"
+
+#: ../wti_like_post_admin.php:682
+#: ../wti_like_post_widgets.php:191
+#: ../wti_like_post_widgets.php:898
+msgid "Last one month"
+msgstr "Last one month"
+
+#: ../wti_like_post_admin.php:683
+#: ../wti_like_post_widgets.php:192
+#: ../wti_like_post_widgets.php:899
+msgid "Last two months"
+msgstr "Last two months"
+
+#: ../wti_like_post_admin.php:684
+#: ../wti_like_post_widgets.php:193
+#: ../wti_like_post_widgets.php:900
+msgid "Last three months"
+msgstr "Last three months"
+
+#: ../wti_like_post_admin.php:685
+#: ../wti_like_post_widgets.php:194
+#: ../wti_like_post_widgets.php:901
+msgid "Last six Months"
+msgstr "Last six Months"
+
+#: ../wti_like_post_admin.php:686
+#: ../wti_like_post_widgets.php:195
+#: ../wti_like_post_widgets.php:902
+msgid "Last one Year"
+msgstr "Last one Year"
+
+#: ../wti_like_post_admin.php:689
+msgid "Submit"
+msgstr "Submit"
+
+#: ../wti_like_post_admin.php:694
+msgid "items"
+msgstr "items"
+
+#: ../wti_like_post_admin.php:699
+msgid "Prev"
+msgstr "Prev"
+
+#: ../wti_like_post_admin.php:700
+msgid "Next"
+msgstr "Next"
+
+#: ../wti_like_post_admin.php:717
+msgid "Post Title"
+msgstr "Post Title"
+
+#: ../wti_like_post_admin.php:720
+#: ../wti_like_post_admin.php:900
+#: ../wti_like_post_admin.php:1005
+#: ../wti_like_post_site.php:313
+#: ../wti_like_post_site.php:424
+msgid "Like Count"
+msgstr "Like Count"
+
+#: ../wti_like_post_admin.php:723
+msgid "Unlike Count"
+msgstr "Unlike Count"
+
+#: ../wti_like_post_admin.php:726
+#: ../wti_like_post_admin.php:902
+msgid "Total Count"
+msgstr "Total Count"
+
+#: ../wti_like_post_admin.php:753
+msgid "View users who liked"
+msgstr "View users who liked"
+
+#: ../wti_like_post_admin.php:753
+msgid "View Users"
+msgstr "View Users"
+
+#: ../wti_like_post_admin.php:780
+#: ../wti_like_post_site.php:342
+#: ../wti_like_post_site.php:453
+#: ../wti_like_post_site.php:533
+#: ../wti_like_post_widgets.php:449
+#: ../wti_like_post_widgets.php:735
+#: ../wti_like_post_widgets.php:1108
+msgid "Nothing liked yet."
+msgstr "Nothing liked yet."
+
+#: ../wti_like_post_admin.php:806
+msgid "Support / Manual / Review"
+msgstr "Support / Manual / Review"
+
+#: ../wti_like_post_admin.php:808
+msgid "For any suggestion / query / issue / requirement, please use the forum"
+msgstr "For any suggestion / query / issue / requirement, please use the forum"
+
+#: ../wti_like_post_admin.php:808
+msgid "or drop an email to"
+msgstr "or drop an email to"
+
+#: ../wti_like_post_admin.php:809
+msgid "Get the"
+msgstr "Get the"
+
+#: ../wti_like_post_admin.php:809
+msgid "PRO Manual here"
+msgstr "PRO Manual here"
+
+#: ../wti_like_post_admin.php:809
+msgid "for a complete list of features"
+msgstr "for a complete list of features"
+
+#: ../wti_like_post_admin.php:810
+msgid "We will be glad if you can add your reviews on"
+msgstr "We will be glad if you can add your reviews on"
+
+#: ../wti_like_post_admin.php:810
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: ../wti_like_post_admin.php:819
+msgid "Features"
+msgstr "Features"
+
+#: ../wti_like_post_admin.php:823
+msgid "Functionality for getting automatic plugin updates as a standard wordpress plugin update process."
+msgstr "Functionality for getting automatic plugin updates as a standard wordpress plugin update process."
+
+#: ../wti_like_post_admin.php:824
+msgid "Hook available for successful voting so that you can attach any functionality like sending thank you mail to user."
+msgstr "Hook available for successful voting so that you can attach any functionality like sending thank you mail to user."
+
+#: ../wti_like_post_admin.php:825
+msgid "Functionality for viewing like, unlike, total counts for individual post on admin Most Liked Posts screen. You can also view users who voted for each of them. This works only when logged in users are allowed to vote."
+msgstr "Functionality for viewing like, unlike, total counts for individual post on admin Most Liked Posts screen. You can also view users who voted for each of them. This works only when logged in users are allowed to vote."
+
+#: ../wti_like_post_admin.php:826
+msgid "Buddypress activity integration to show activity updates when a user likes and dislikes any content."
+msgstr "Buddypress activity integration to show activity updates when a user likes and dislikes any content."
+
+#: ../wti_like_post_admin.php:827
+msgid "Functionality for highlighting the like/unlike icon on successful voting and page load."
+msgstr "Functionality for highlighting the like/unlike icon on successful voting and page load."
+
+#: ../wti_like_post_admin.php:828
+msgid "Compatible with multisite set up."
+msgstr "Compatible with multisite set up."
+
+#: ../wti_like_post_admin.php:829
+msgid "Can be used with custom post types. You can show most liked posts based on custom post types using shortcode and widget."
+msgstr "Can be used with custom post types. You can show most liked posts based on custom post types using shortcode and widget."
+
+#: ../wti_like_post_admin.php:830
+msgid "Functionality for disabling the plugin css file so that you can use custom css from your theme."
+msgstr "Functionality for disabling the plugin css file so that you can use custom css from your theme."
+
+#: ../wti_like_post_admin.php:831
+msgid "Functionality for redirecting user to a specific page on successful voting."
+msgstr "Functionality for redirecting user to a specific page on successful voting."
+
+#: ../wti_like_post_admin.php:832
+msgid "Functionality for showing the like/unlike buttons for post excerpts."
+msgstr "Functionality for showing the like/unlike buttons for post excerpts."
+
+#: ../wti_like_post_admin.php:833
+msgid "Functionality for allowing/disallowing author to vote against own post with custom message."
+msgstr "Functionality for allowing/disallowing author to vote against own post with custom message."
+
+#: ../wti_like_post_admin.php:834
+msgid "Option to save plugin settings and table after plugin un-installation in case you need to reuse the data in future."
+msgstr "Option to save plugin settings and table after plugin un-installation in case you need to reuse the data in future."
+
+#: ../wti_like_post_admin.php:835
+msgid "Functionality to disable auto-loading of the like/unlike buttons so that you can use the template tag GetWtiLikePost() inside your theme or [wtilp_buttons] inside post/page content using the editor. Please note that [wtilp_buttons] is NOT a shortcode."
+msgstr "Functionality to disable auto-loading of the like/unlike buttons so that you can use the template tag GetWtiLikePost() inside your theme or [wtilp_buttons] inside post/page content using the editor. Please note that [wtilp_buttons] is NOT a shortcode."
+
+#: ../wti_like_post_admin.php:836
+msgid "Functionality to store voting counts (like, unlike, total) as post meta which can be used to show posts sorted by voting counts."
+msgstr "Functionality to store voting counts (like, unlike, total) as post meta which can be used to show posts sorted by voting counts."
+
+#: ../wti_like_post_admin.php:837
+msgid "Functionality to have default message to encourage users to like posts."
+msgstr "Functionality to have default message to encourage users to like posts."
+
+#: ../wti_like_post_admin.php:838
+msgid "Functionality to show users who liked a post below the like/unlike buttons."
+msgstr "Functionality to show users who liked a post below the like/unlike buttons."
+
+#: ../wti_like_post_admin.php:839
+msgid "In total 6 styles of buttons for like/unlike functionality."
+msgstr "In total 6 styles of buttons for like/unlike functionality."
+
+#: ../wti_like_post_admin.php:840
+msgid "Functionality to show like count for each post in admin post list/edit section."
+msgstr "Functionality to show like count for each post in admin post list/edit section."
+
+#: ../wti_like_post_admin.php:841
+msgid "Has 2 template files which can be used to show most liked posts throughout the site and the most liked posts by an author on author page."
+msgstr "Has 2 template files which can be used to show most liked posts throughout the site and the most liked posts by an author on author page."
+
+#: ../wti_like_post_admin.php:842
+msgid "Functionality to use texts instead of like/unlike images in case you want to have some encouraging texts which can not be conveyed using images."
+msgstr "Functionality to use texts instead of like/unlike images in case you want to have some encouraging texts which can not be conveyed using images."
+
+#: ../wti_like_post_admin.php:843
+msgid "Functionality for adding default like/unlike entries i.e. 0 for posts and pages when they are created."
+msgstr "Functionality for adding default like/unlike entries i.e. 0 for posts and pages when they are created."
+
+#: ../wti_like_post_admin.php:844
+msgid "Functionality to show most liked/unliked posts from selected categories on Most Liked/Unliked Posts widget."
+msgstr "Functionality to show most liked/unliked posts from selected categories on Most Liked/Unliked Posts widget."
+
+#: ../wti_like_post_admin.php:845
+msgid "Functionality to show posts liked/unliked by all users or the logged in user on the widget and also shortcode for showing the same on a page."
+msgstr "Functionality to show posts liked/unliked by all users or the logged in user on the widget and also shortcode for showing the same on a page."
+
+#: ../wti_like_post_admin.php:846
+msgid "Wide range of time including hours to have more control on the posts shown on the widget."
+msgstr "Wide range of time including hours to have more control on the posts shown on the widget."
+
+#: ../wti_like_post_admin.php:847
+msgid "Most Liked/Unliked Category Posts widget to show posts liked/unliked on the specific category page."
+msgstr "Most Liked/Unliked Category Posts widget to show posts liked/unliked on the specific category page."
+
+#: ../wti_like_post_admin.php:848
+msgid "Functionality to show post excerpt, thumbnail on all the available widgets."
+msgstr "Functionality to show post excerpt, thumbnail on all the available widgets."
+
+#: ../wti_like_post_admin.php:870
+#: ../wti_like_post_admin.php:871
+msgid "WTI Like Post Exclude Option"
+msgstr "WTI Like Post Exclude Option"
+
+#: ../wti_like_post_admin.php:897
+msgid "Check to disable like/unlike functionality"
+msgstr "Check to disable like/unlike functionality"
+
+#: ../wti_like_post_admin.php:901
+msgid "Unike Count"
+msgstr "Unike Count"
+
+#: ../wti_like_post_admin.php:1067
+#, php-format
+msgid "This is an annoying nag message.  Why do people make these? | <a href=\"%1$s\">Hide Notice</a>"
+msgstr "This is an annoying nag message.  Why do people make these? | <a href=\"%1$s\">Hide Notice</a>"
+
+#: ../wti_like_post_admin.php:1094
+msgid "Donate"
+msgstr "Donate"
+
+#: ../wti_like_post_admin.php:1095
+msgid "PRO Support Forum"
+msgstr "PRO Support Forum"
+
+#: ../wti_like_post_ajax.php:12
+#: ../wti_like_post_ajax.php:55
+msgid "Invalid access"
+msgstr "Invalid access"
+
+#: ../wti_like_post_ajax.php:20
+msgid " like/unlike/total post metadata updated successfully"
+msgstr " like/unlike/total post metadata updated successfully"
+
+#: ../wti_like_post_ajax.php:139
+msgid "day(s)"
+msgstr "day(s)"
+
+#: ../wti_like_post_ajax.php:144
+msgid "hour(s)"
+msgstr "hour(s)"
+
+#: ../wti_like_post_ajax.php:144
+#: ../wti_like_post_ajax.php:148
+msgid "minute(s)"
+msgstr "minute(s)"
+
+#: ../wti_like_post_ajax.php:152
+msgid "You can vote after"
+msgstr "You can vote after"
+
+#: ../wti_like_post_ajax.php:294
+#, php-format
+msgid "%s liked %s"
+msgstr "%s liked %s"
+
+#: ../wti_like_post_ajax.php:295
+msgid "liked"
+msgstr "liked"
+
+#: ../wti_like_post_ajax.php:297
+#, php-format
+msgid "%s disliked %s"
+msgstr "%s disliked %s"
+
+#: ../wti_like_post_ajax.php:298
+msgid "disliked"
+msgstr "disliked"
+
+#: ../wti_like_post_ajax.php:313
+msgid "Could not process your vote."
+msgstr "Could not process your vote."
+
+#: ../wti_like_post_ajax.php:323
+msgid "Your vote was cancelled."
+msgstr "Your vote was cancelled."
+
+#: ../wti_like_post_ajax.php:326
+msgid "Could not cancel your vote."
+msgstr "Could not cancel your vote."
+
+#: ../wti_like_post_site.php:62
+msgid "Like"
+msgstr "Like"
+
+#: ../wti_like_post_site.php:63
+msgid "Unlike"
+msgstr "Unlike"
+
+#: ../wti_like_post_site.php:312
+#: ../wti_like_post_site.php:423
+#: ../wti_like_post_site.php:509
+#: ../wti_like_post_widgets.php:119
+#: ../wti_like_post_widgets.php:563
+#: ../wti_like_post_widgets.php:851
+msgid "Title"
+msgstr "Title"
+
+#: ../wti_like_post_site.php:316
+#: ../wti_like_post_site.php:427
+#: ../wti_like_post_site.php:512
+#: ../wti_like_post_widgets.php:405
+#: ../wti_like_post_widgets.php:696
+#: ../wti_like_post_widgets.php:1081
+msgid "Author"
+msgstr "Author"
+
+#: ../wti_like_post_site.php:340
+#: ../wti_like_post_site.php:451
+#: ../wti_like_post_widgets.php:447
+#: ../wti_like_post_widgets.php:1106
+msgid "Nothing disliked yet."
+msgstr "Nothing disliked yet."
+
+#: ../wti_like_post_site.php:361
+msgid "Please login to see the posts you like."
+msgstr "Please login to see the posts you like."
+
+#: ../wti_like_post_view_users.php:88
+msgid "Clear Vote"
+msgstr "Clear Vote"
+
+#: ../wti_like_post_widgets.php:14
+msgid "Widget to display most liked/unliked posts for a given time range."
+msgstr "Widget to display most liked/unliked posts for a given time range."
+
+#: ../wti_like_post_widgets.php:15
+msgid "Most Liked/Unliked Posts"
+msgstr "Most Liked/Unliked Posts"
+
+#: ../wti_like_post_widgets.php:124
+#: ../wti_like_post_widgets.php:856
+msgid "Show counts based on"
+msgstr "Show counts based on"
+
+#: ../wti_like_post_widgets.php:126
+#: ../wti_like_post_widgets.php:858
+msgid "All votes"
+msgstr "All votes"
+
+#: ../wti_like_post_widgets.php:128
+#: ../wti_like_post_widgets.php:860
+msgid "My votes"
+msgstr "My votes"
+
+#: ../wti_like_post_widgets.php:132
+#: ../wti_like_post_widgets.php:864
+msgid "Vote type to show"
+msgstr "Vote type to show"
+
+#: ../wti_like_post_widgets.php:134
+#: ../wti_like_post_widgets.php:866
+msgid "Liked"
+msgstr "Liked"
+
+#: ../wti_like_post_widgets.php:136
+#: ../wti_like_post_widgets.php:868
+msgid "Unliked"
+msgstr "Unliked"
+
+#: ../wti_like_post_widgets.php:138
+#: ../wti_like_post_widgets.php:870
+msgid "Total"
+msgstr "Total"
+
+#: ../wti_like_post_widgets.php:142
+#: ../wti_like_post_widgets.php:874
+msgid "Number of posts to show"
+msgstr "Number of posts to show"
+
+#: ../wti_like_post_widgets.php:147
+#: ../wti_like_post_widgets.php:573
+msgid "Post type to use (comma separated)"
+msgstr "Post type to use (comma separated)"
+
+#: ../wti_like_post_widgets.php:152
+#: ../wti_like_post_widgets.php:420
+#: ../wti_like_post_widgets.php:711
+msgid "Category"
+msgstr "Category"
+
+#: ../wti_like_post_widgets.php:154
+msgid "All Categories"
+msgstr "All Categories"
+
+#: ../wti_like_post_widgets.php:172
+#: ../wti_like_post_widgets.php:879
+msgid "Time range"
+msgstr "Time range"
+
+#: ../wti_like_post_widgets.php:200
+#: ../wti_like_post_widgets.php:578
+#: ../wti_like_post_widgets.php:907
+msgid "Show title"
+msgstr "Show title"
+
+#: ../wti_like_post_widgets.php:204
+#: ../wti_like_post_widgets.php:582
+#: ../wti_like_post_widgets.php:911
+msgid "Show excerpt"
+msgstr "Show excerpt"
+
+#: ../wti_like_post_widgets.php:208
+#: ../wti_like_post_widgets.php:915
+msgid "Don't show vote count"
+msgstr "Don't show vote count"
+
+#: ../wti_like_post_widgets.php:209
+#: ../wti_like_post_widgets.php:916
+msgid "Show vote count after post title"
+msgstr "Show vote count after post title"
+
+#: ../wti_like_post_widgets.php:210
+#: ../wti_like_post_widgets.php:917
+msgid "Show vote count after post excerpt"
+msgstr "Show vote count after post excerpt"
+
+#: ../wti_like_post_widgets.php:214
+#: ../wti_like_post_widgets.php:586
+#: ../wti_like_post_widgets.php:921
+msgid "Show author"
+msgstr "Show author"
+
+#: ../wti_like_post_widgets.php:218
+#: ../wti_like_post_widgets.php:590
+msgid "Show categories"
+msgstr "Show categories"
+
+#: ../wti_like_post_widgets.php:222
+#: ../wti_like_post_widgets.php:594
+#: ../wti_like_post_widgets.php:925
+msgid "Show tags"
+msgstr "Show tags"
+
+#: ../wti_like_post_widgets.php:226
+#: ../wti_like_post_widgets.php:598
+#: ../wti_like_post_widgets.php:929
+msgid "Show thumbnail"
+msgstr "Show thumbnail"
+
+#: ../wti_like_post_widgets.php:230
+#: ../wti_like_post_widgets.php:602
+#: ../wti_like_post_widgets.php:933
+msgid "Thumbnail size"
+msgstr "Thumbnail size"
+
+#: ../wti_like_post_widgets.php:436
+#: ../wti_like_post_widgets.php:727
+#: ../wti_like_post_widgets.php:1096
+msgid "Tags"
+msgstr "Tags"
+
+#: ../wti_like_post_widgets.php:477
+msgid "Widget to show recently liked posts."
+msgstr "Widget to show recently liked posts."
+
+#: ../wti_like_post_widgets.php:478
+#: ../wti_like_post_widgets.php:494
+#: ../wti_like_post_widgets.php:547
+msgid "Recently Liked Posts"
+msgstr "Recently Liked Posts"
+
+#: ../wti_like_post_widgets.php:568
+msgid "Number of entries to show"
+msgstr "Number of entries to show"
+
+#: ../wti_like_post_widgets.php:755
+msgid "Widget to display most liked/unliked posts for a given category on category page."
+msgstr "Widget to display most liked/unliked posts for a given category on category page."
+
+#: ../wti_like_post_widgets.php:756
+msgid "Most Liked/Unliked Category Posts"
+msgstr "Most Liked/Unliked Category Posts"
+
+#: ../wti_like_post_widgets.php:772
+#: ../wti_like_post_widgets.php:833
+msgid "Most Liked Category Posts"
+msgstr "Most Liked Category Posts"
+
+#: ../wti_like_post_widgets.php:1114
+msgid "No category posts available."
+msgstr "No category posts available."
+
+#: ../templates/content-likes-count.php:22
+#, php-format
+msgid "Posts liked by %s"
+msgstr "Posts liked by %s"
+
+#: ../templates/content-likes-count.php:43
+#: ../templates/content-likes.php:42
+#: ../templates/most-liked-posts.php:61
+#: ../templates/recently-liked-posts.php:44
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: ../templates/content-likes.php:25
+msgid "Favorite Posts"
+msgstr "Favorite Posts"
+
+#~ msgid "Author:"
+#~ msgstr "Author:"
+
+#~ msgid "Category:"
+#~ msgstr "Category:"
+
+#~ msgid "Check out the powerful PRO version with lots of useful features."
+#~ msgstr "Check out the powerful PRO version with lots of useful features."
+
+#~ msgid "WTI Like Post Options"
+#~ msgstr "WTI Like Post Options"
+
+#~ msgid "Lite Manual here"
+#~ msgstr "Lite Manual here"
+
+#~ msgid "PRO Version here"
+#~ msgstr "PRO Version here"
+
+#~ msgid "for more advanced features"
+#~ msgstr "for more advanced features"
+
+#~ msgid "Review / Donation"
+#~ msgstr "Review / Donation"
+
+#~ msgid ""
+#~ "There has been a lot of effort put behind the development of this plugin. "
+#~ "Please consider donating towards this plugin development."
+#~ msgstr ""
+#~ "There has been a lot of effort put behind the development of this plugin. "
+#~ "Please consider donating towards this plugin development."
+
+#~ msgid ""
+#~ "Select whether the plugin settings and table will be removed when you "
+#~ "uninstall the plugin. Setting this to NO is helpful if you are planning "
+#~ "to reuse this in future with old data or upgrade to PRO version."
+#~ msgstr ""
+#~ "Select whether the plugin settings and table will be removed when you "
+#~ "uninstall the plugin. Setting this to NO is helpful if you are planning "
+#~ "to reuse this in future with old data or upgrade to PRO version."
+
+#~ msgid "Select whether only logged in users can vote or not."
+#~ msgstr "Select whether only logged in users can vote or not."
+
+#~ msgid "Message to show if user has already voted."
+#~ msgstr "Message to show if user has already voted."
+
+#~ msgid "Select the position where you want to show the like options."
+#~ msgstr "Select the position where you want to show the like options."
+
+#~ msgid "Most Liked"
+#~ msgstr "Most Liked"
+
+#~ msgid "Recently Liked"
+#~ msgstr "Recently Liked"
+
+#~ msgid "Default"
+#~ msgstr "Default"
+
+#~ msgid "jQuery Framework"
+#~ msgstr "jQuery Framework"
+
+#~ msgid "Enabled"
+#~ msgstr "Enabled"
+
+#~ msgid "Disabled"
+#~ msgstr "Disabled"
+
+#~ msgid ""
+#~ "Disable it if you already have the jQuery framework enabled in your theme."
+#~ msgstr ""
+#~ "Disable it if you already have the jQuery framework enabled in your theme."
+
+#~ msgid ""
+#~ "Widget to display most liked/unliked posts by logged in user for a given "
+#~ "time range."
+#~ msgstr ""
+#~ "Widget to display most liked/unliked posts by logged in user for a given "
+#~ "time range."
+
+#~ msgid "My Most Liked/Unliked Posts"
+#~ msgstr "My Most Liked/Unliked Posts"
+
+#~ msgid "My Most Liked Posts"
+#~ msgstr "My Most Liked Posts"
+
+#~ msgid "Yes, in new lines"
+#~ msgstr "Yes, in new lines"
+
+#~ msgid "Show"
+#~ msgstr "Show"
+
+#~ msgid "True"
+#~ msgstr "True"
+
+#~ msgid "False"
+#~ msgstr "False"
+
+#~ msgid "Up"
+#~ msgstr "Up"
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid "Yes/No"
+#~ msgstr "Yes/No"
+
+#~ msgid "+/-"
+#~ msgstr "+/-"
+
+#~ msgid "&laquo; Prev"
+#~ msgstr "&laquo; Prev"

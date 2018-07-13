@@ -1,0 +1,1 @@
+<button class="btn btn-danger btn-delete-post" data-post-id="<?php echo get_the_ID(); ?>" data-action="<?php echo pcs_posts_get_action_name_delete(); ?>" data-wp-nonce="<?php echo pcs_posts_get_delete_nonce(); ?>" data-toggle="modal" data-target=".delete-post-modal"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span></button>

@@ -1,0 +1,342 @@
+.watch-action {
+	float: left;
+	width: 100%;
+	height: 30px;
+}
+
+.watch-action img {
+	border:none !important;
+	padding: 0px !important;
+}
+
+.watch-action .watch-position {
+	width:auto;
+}
+
+.align-left {
+	float: left;
+}
+
+.align-right {
+	float: right;
+}
+
+.watch-action .watch-position a, .watch-action .watch-position a:hover{
+	text-decoration:none;
+}
+
+.action-like, .action-unlike {
+	float:left;
+	width:auto;
+}
+
+.action-unlike {
+	padding-left:7px;	
+}
+
+.like, .unlike, .status-img, .status-msg {
+	float: left;
+}
+
+.jlk {
+	cursor:pointer !important;	
+}
+
+span.wti-text {
+	float:left;
+	width: auto;
+	padding:0 0 0 6px;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.lc, .unlc {
+	float:left;
+	width: auto;
+	padding:0 0 0 6px;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.status {
+	color: gray;
+	padding: 0 7px 0 7px;
+	font-size: 14px;
+	line-height: 18px;	
+}
+
+.status .status_msg {
+	width: auto;
+	margin: 0 3px 0 0;	
+}
+
+.loading-img {
+	background:url(../images/loading.gif) no-repeat scroll 0 0 !important;
+	padding:0px 5px;
+	content: "\0020";
+	margin: 0px 5px;
+}
+
+.wti-clear {
+	clear:both;
+}
+
+/*** START DEFAULT THUMB UP/DOWN STYLE ***/	
+.lbg-, .unlbg-, .lbg-default, .unlbg-default, .lbg--active, .unlbg--active, .lbg-default-active, .unlbg-default-active {
+	width: 16px;
+	height: 18px;
+}
+
+.lbg-, .lbg-default {
+	background:url(../images/thumb_up1.png) no-repeat left top !important;	
+}
+
+.lbg--active, .lbg-default-active, .lbg-:hover, .lbg-default:hover {
+	background:url(../images/thumb_up1.png) no-repeat left bottom !important;	
+}		
+
+.unlbg-, .unlbg-default {
+	background:url(../images/thumb_down2.png) no-repeat left top !important;	
+}
+
+.unlbg--active, .unlbg-default-active, .unlbg-:hover, .unlbg-default:hover {
+	background:url(../images/thumb_down2.png) no-repeat left bottom !important;	
+}
+
+.lbg- .lc, .lbg-default .lc, .lbg--active .lc, .lbg-default-active .lc {
+	color: green;
+}
+
+.unlbg- .unlc, .unlbg-default .unlc, .unlbg--active .unlc, .unlbg-default-active .unlc {
+	color: red;
+}
+/*** END DEFAULT THUMB UP/DOWN STYLE ***/
+
+/*** START FIRST THUMB UP/DOWN STYLE ***/	
+.lbg-style1 img,  .unlbg-style1 img, .lbg-style1-active img,  .unlbg-style1-active img {
+	width: 16px;
+	height: 18px;
+	float:left;
+}
+
+.lbg-style1 img {
+	background:url(../images/thumb_up1.png) repeat scroll 0 0 !important;
+}        
+
+.lbg-style1 img:hover, .lbg-style1-active img {
+	background:url(../images/thumb_up1.png) repeat scroll 0 -18px !important;
+}
+
+.unlbg-style1 img{
+	background:url(../images/thumb_down1.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style1 img:hover, .unlbg-style1-active img {
+	background:url(../images/thumb_down1.png) repeat scroll 0 -18px !important;
+}
+
+.lbg-style1 .lc, .lbg-style1-active .lc {
+	color: green;
+}
+
+.unlbg-style1 .unlc, .unlbg-style1-active .unlc {
+	color: red;
+}
+/*** END FIRST THUMB UP/DOWN STYLE ***/		
+
+/** START Style2 STYLE **/
+.lbg-style2 img, .lbg-style2-active img, .unlbg-style2 img, .unlbg-style2-active img {
+	width: 16px;
+	height: 18px;
+	float:left;
+}
+
+.lbg-style2 img{
+	background:url(../images/thumb_up2.png) repeat scroll 0 0 !important;
+}        
+
+.lbg-style2 img:hover, .lbg-style2-active img{
+	background:url(../images/thumb_up2.png) repeat scroll 0 -18px !important;
+}
+
+.unlbg-style2 img{
+	background:url(../images/thumb_down2.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style2 img:hover, .unlbg-style2-active img {
+	background:url(../images/thumb_down2.png) repeat scroll 0 -18px !important;
+}
+
+.lbg-style2 .lc, .lbg-style2-active .lc {
+	color: green;
+}
+
+.unlbg-style2 .unlc, .unlbg-style2-active .unlc {
+	color: red;		
+}
+/** END Style2 STYLE**/
+
+/** START Style3 STYLE **/
+.lbg-style3 img,  .unlbg-style3 img, .lbg-style3-active img,  .unlbg-style3-active img {
+	width: 16px;
+	height: 16px;
+	float:left;
+}
+
+.lbg-style3 img {
+	background:url(../images/thumb_up3.png) repeat scroll 0 0 !important;
+}        
+
+.lbg-style3 img:hover, .lbg-style3-active img {
+	background:url(../images/thumb_up3.png) repeat scroll 0 -16px !important;
+}
+
+.unlbg-style3 img {
+	background:url(../images/thumb_down3.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style3 img:hover, .unlbg-style3-active img {
+	background:url(../images/thumb_down3.png) repeat scroll 0 -16px !important;
+}
+
+.lbg-style3 .lc, .lbg-style3-active .lc {
+	color: green;
+}
+
+.unlbg-style3 .unlc, .unlbg-style3-active .unlc {
+	color: red;		
+}
+/** END Style3 STYLE**/
+
+/*** START style4 THUMB UP/DOWN STYLE ***/	
+.lbg-style4 img, .unlbg-style4 img, .lbg-style4-active img, .unlbg-style4-active img {
+	width: 16px;
+	height: 16px;
+	float:left;
+}
+
+.lbg-style4 img {
+	background:url(../images/thumb_up4.png) repeat scroll 0 0 !important;
+}
+
+.lbg-style4 img:hover, .lbg-style4-active img {
+	background:url(../images/thumb_up4.png) no-repeat left bottom !important;	
+}
+
+.unlbg-style4 img {
+	background:url(../images/thumb_down4.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style4 img:hover, .unlbg-style4-active img {
+	background:url(../images/thumb_down4.png) no-repeat left bottom !important;	
+}
+
+.lbg-style4 .lc, .lbg-style4-active .lc {
+	color: red;
+}
+
+.unlbg-style4 .unlc, .unlbg-style4-active .unlc {
+	color: black;		
+}
+
+/*** START style5 THUMB UP/DOWN STYLE ***/
+.lbg-style5 img,  .unlbg-style5 img, .lbg-style5-active img,  .unlbg-style5-active img {
+	width: 16px;
+	height: 16px;
+	float:left;
+}
+
+.lbg-style5 img {
+	background:url(../images/thumb_up5.png) repeat scroll 0 0 !important;
+}        
+
+.lbg-style5 img:hover, .lbg-style5-active img {
+	background:url(../images/thumb_up5.png) repeat scroll 0 -16px !important;
+}
+
+.unlbg-style5 img {
+	background:url(../images/thumb_down5.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style5 img:hover, .unlbg-style5-active img {
+	background:url(../images/thumb_down5.png) repeat scroll 0 -16px !important;
+}
+
+.lbg-style5 .lc, .lbg-style5-active .lc {
+	color: green;
+}
+
+.unlbg-style5 .unlc, .unlbg-style5-active .unlc {
+	color: red;		
+}
+
+/*** START style6 THUMB UP/DOWN STYLE ***/	
+.lbg-style6 img,  .unlbg-style6 img, .lbg-style6-active img,  .unlbg-style6-active img {
+	width: 16px;
+	height: 16px;
+	float:left;
+}
+
+.lbg-style6 img {
+	background:url(../images/thumb_up6.png) repeat scroll 0 0 !important;
+}        
+
+.lbg-style6 img:hover, .lbg-style6-active img {
+	background:url(../images/thumb_up6.png) repeat scroll 0 -16px !important;
+}
+
+.unlbg-style6 img {
+	background:url(../images/thumb_down6.png) repeat scroll 0 0 !important;
+}
+
+.unlbg-style6 img:hover, .unlbg-style6-active img {
+	background:url(../images/thumb_down6.png) repeat scroll 0 -16px !important;
+}
+
+.lbg-style6 .lc, .lbg-style6-active .lc {
+	color: green;
+}
+.unlbg-style6 .unlc, .unlbg-style6-active .unlc {
+	color: red;		
+}
+
+span.wti-others-like {
+	cursor:pointer;
+	position:relative;
+}
+
+span.wti-others-tip {
+	display:none;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #000;
+	left: -25px;
+	bottom: 20px;
+	padding: 3px;
+	position: absolute;
+	z-index: 1001;
+}
+
+/*widget*/
+li.wti_widget_li {
+	clear:both;
+	padding-bottom:10px;
+}
+
+li.wti_widget_li p {
+	margin-bottom:5px !important;
+}
+
+div.wti_widget_thumb {
+	float:left;
+	margin-right:10px;
+	margin-bottom:5px;
+}
+
+
+span.wti_widget_count {
+	margin-left: 3px;
+}
+
+span.wti_widget_author, span.wti_widget_category, span.wti_widget_tags {
+	display:block;
+}
