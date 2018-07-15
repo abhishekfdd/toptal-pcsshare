@@ -484,3 +484,11 @@ function pcs_disable_rich_text($enabled, $field_id) {
   return false;
 }
 add_filter('bp_xprofile_is_richtext_enabled_for_field','pcs_disable_rich_text', 10, 2);
+
+
+function on_delete_user_remove_likes_and_dislikes($id) {
+  global $wpdb;
+
+  $wpdb->delete( 'wp_wti_like_post', array( 'user_id' => $id ) );
+}
+add_action( 'delete_user', 'on_delete_user_remove_likes_and_dislikes', 10, 1);
