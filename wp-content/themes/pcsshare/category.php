@@ -29,14 +29,32 @@
                     <?php endif; ?>
                     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); $post_id = get_the_ID(); ?>
                         <article class="post-excerpt" data-link="<?php the_permalink(); ?>">
-                            <h2 class="post-excerpt-title"><?php the_title(); ?></h2>
-                            <h4 class="post-excerpt-link"><?php pcs_post_excerpt_link( $post_id ) ?></h4>
-                            <?php GetWtiLikePost(); ?>
-                            <footer class="post-excerpt-footer">
-								<?php $author = get_the_author_meta( 'user_nicename' ); ?>
-								<span class="pull-right">Submitted by <?php echo ( empty($author) || 'anonymous' == $author ? 'Anonymous' : get_the_author_posts_link() ); ?></span>
-                                <div class="clearfix"></div>
-                            </footer>
+                          <div class="row">
+                            <div class="col-xs-12">
+	                            <div class="col-xs-12">
+		                            <h2 class="post-excerpt-title"><?php the_title(); ?></h2>
+		                            <h4 class="post-excerpt-link"><?php pcs_post_excerpt_link( $post_id ) ?></h4>
+	                            </div>
+	                            <div class="col-xs-12">
+		                            <hr class="m-t-15 m-b-15"/>
+	                              <div class="row">
+		                              <div class="col-xs-12 col-md-6">
+			                              <div class="get-wti-like-post-wrapper">
+				                              <p>Was this treatment effective for you?</p>
+                                      <?php GetWtiLikePost(); ?>
+			                              </div>
+		                              </div>
+	                                <div class="col-xs-12 col-md-6">
+		                                <footer class="post-excerpt-footer">
+                                      <?php $author = get_the_author_meta( 'user_nicename' ); ?>
+			                                <p class="text-right">Submitted by <?php echo ( empty($author) || 'anonymous' == $author ? 'Anonymous' : get_the_author_posts_link() ); ?></p>
+			                                <div class="clearfix"></div>
+		                                </footer>
+	                                </div>
+                                </div>
+	                            </div>
+                            </div>
+                          </div>
                         </article>
                         <div class="people-who-liked hidden">
                             <ul>

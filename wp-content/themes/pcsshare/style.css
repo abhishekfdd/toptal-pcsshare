@@ -222,8 +222,8 @@ a:visited {
 }
 
 .post-excerpt-footer {
-    line-height: 2em;
-    padding: 0.5em;
+    /*line-height: 2em;*/
+    padding:  0 0 0.5em 0;
 }
 
 .post-comments {
@@ -366,4 +366,17 @@ a:visited {
 .legal-section {
     margin-top: 2em;
     margin-bottom: 2em;
+}
+
+/**
+Toptal
+ */
+.get-wti-like-post-wrapper {
+    padding-bottom: 15px;
+}
+.m-t-15 {
+    margin-top: 15px;
+}
+.m-b-15 {
+    margin-bottom: 15px;
 }
