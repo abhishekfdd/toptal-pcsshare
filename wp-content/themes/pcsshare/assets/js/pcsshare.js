@@ -402,7 +402,7 @@
 				'html': true,
 				'trigger': 'manual',
 				'placement': 'bottom',
-				'title': 'Users who liked the post',
+				'title': 'Effective',
 				'content': function () {
 					var peopleList = peopleWhoLiked.eq(index);
 					return peopleList.find('li').length ? peopleList.html() : 'No-one :(';
@@ -420,7 +420,7 @@
 				'html': true,
 				'trigger': 'manual',
 				'placement': 'bottom',
-				'title': 'Users who disliked the post',
+				'title': 'Ineffective',
 				'content': function () {
 					var peopleList = peopleWhoUnliked.eq(index);
 					return peopleList.find('li').length ? peopleList.html() : 'No-one :)';
