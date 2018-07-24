@@ -31,7 +31,12 @@
 						  </header>
 					  </div>
 						<div class="col-xs-12">
-							<hr class="m-t-15 m-b-15"/>
+							<div class="row">
+								<div class="col-xs-12 content-col">
+									<?php the_content(); ?>
+								</div>
+							</div>
+							<hr class="m-t-15 m-b-15 b-t-black"/>
 							<div class="row">
 								<div class="col-xs-12 col-md-6">
 									<div class="get-wti-like-post-wrapper">

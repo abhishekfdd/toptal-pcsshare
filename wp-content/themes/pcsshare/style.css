@@ -387,10 +387,11 @@ Toptal
 .m-b-15 {
   margin-bottom: 15px;
 }
-
-body.single article {
-  /*border: 1px solid #000;*/
-  /*padding: 15px 15px 0 15px;*/
+.b-t-black {
+  border-top: 1px solid #333;
+}
+body.single article .content-col .watch-action{
+  display: none;
 }
 body.single article header h3 {
   /*margin-top: 15px;*/

@@ -36,7 +36,7 @@
 		                            <h4 class="post-excerpt-link"><?php pcs_post_excerpt_link( $post_id ) ?></h4>
 	                            </div>
 	                            <div class="col-xs-12">
-		                            <hr class="m-t-15 m-b-15"/>
+		                            <hr class="m-t-15 m-b-15 b-t-black"/>
 	                              <div class="row">
 		                              <div class="col-xs-12 col-md-6">
 			                              <div class="get-wti-like-post-wrapper">
