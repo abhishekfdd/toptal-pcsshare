@@ -492,3 +492,14 @@ function on_delete_user_remove_likes_and_dislikes($id) {
   $wpdb->delete( 'wp_wti_like_post', array( 'user_id' => $id ) );
 }
 add_action( 'delete_user', 'on_delete_user_remove_likes_and_dislikes', 10, 1);
+
+
+function remove_wti_from_single($content) {
+  if (is_single()) { // or whatever other condition you like
+    remove_filter( 'the_content', 'PutWtiLikePost' );
+    return $content;
+  } else {
+    return $content;
+  }
+}
+add_filter('the_content', 'remove_wti_from_single', 9);
