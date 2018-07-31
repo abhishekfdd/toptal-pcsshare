@@ -503,3 +503,12 @@ function remove_wti_from_single($content) {
   }
 }
 add_filter('the_content', 'remove_wti_from_single', 9);
+
+
+function redirect_after_deleted_messages($location, $status) {
+  if (strpos($location, '/messages/public/') !== false) {
+    return str_replace('/messages/public/','/?profile-tab=inbox',$location);
+  }
+  return $location;
+}
+add_filter('wp_redirect', 'redirect_after_deleted_messages',10, 2);
