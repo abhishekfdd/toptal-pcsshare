@@ -352,8 +352,8 @@ class Image {
 
 		list( $width, $height, $type, $attr ) = getimagesize( $this->url );
 
-		$this->width = $width;
-		$this->height = $height;
+		$this->width = (!is_null($width) ? $width : 0);
+		$this->height = (!is_null($height) ? $height: 0);
 	}
 }
 
@@ -567,7 +567,12 @@ function pcs_set_post_excerpt_meta_description($post_id, $excerpt_link) {
 
 	if( ! empty( $excerpt_link ) ) {
 
-		$tags = get_meta_tags( esc_url( $excerpt_link[0] ) );
+	  if(is_array($excerpt_link)) {
+      $tags = get_meta_tags( esc_url( $excerpt_link[0] ) );
+    } else {
+      $tags = get_meta_tags( esc_url( $excerpt_link ) );
+    }
+//		$tags = get_meta_tags( esc_url( $excerpt_link[0] ) );
 
 		if( ! empty( $tags['description'] ) ) {
 			return add_post_meta( $post_id, pcs_get_post_excerpt_meta_description_name(), $tags['description'] );
